@@ -1,0 +1,14 @@
+library ieee;
+Use ieee. std_logic_1164.all;
+
+entity sum is
+port(
+in_a,in_b,in_c,clk: in std_logic;
+o_s,o_ca: out std_logic);
+end sum;
+
+architecture conducta of sum is 
+ begin
+  s <= a xor b xor c;
+  ca <= (a and b) or (c and (a or b));
+ end conducta;

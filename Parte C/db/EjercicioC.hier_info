@@ -1,0 +1,191 @@
+|EjercicioC
+C <= D_FF:inst12.Q
+A3 => D_FF:inst5.D
+clk => D_FF:inst5.clok
+clk => D_FF:inst10.clok
+clk => D_FF:inst9.clok
+clk => D_FF:inst3.clok
+clk => D_FF:inst8.clok
+clk => D_FF:inst2.clok
+clk => D_FF:inst7.clok
+clk => D_FF:inst.clok
+clk => D_FF:inst6.clok
+clk => D_FF:inst12.clok
+clk => D_FF:inst14.clok
+clk => D_FF:inst13.clok
+clk => D_FF:inst15.clok
+clk => D_FF:inst64.clok
+clk => D_FF:inst11.clok
+clk => D_FF:inst91.clok
+clk => D_FF:inst85.clok
+SoR => D_FF:inst10.D
+B3 => D_FF:inst9.D
+A2 => D_FF:inst3.D
+B2 => D_FF:inst8.D
+A1 => D_FF:inst2.D
+B1 => D_FF:inst7.D
+A0 => D_FF:inst.D
+B0 => D_FF:inst6.D
+Z <= D_FF:inst14.Q
+N <= D_FF:inst13.Q
+V <= D_FF:inst15.Q
+S0 <= D_FF:inst64.Q
+S1 <= D_FF:inst11.Q
+S2 <= D_FF:inst91.Q
+S3 <= D_FF:inst85.Q
+
+
+|EjercicioC|D_FF:inst12
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|sumador:inst80
+a => s.IN0
+a => carry.IN0
+a => carry.IN0
+b => s.IN1
+b => carry.IN1
+b => carry.IN1
+c => s.IN1
+c => carry.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+carry <= carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst5
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst10
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst9
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|sumador:inst90
+a => s.IN0
+a => carry.IN0
+a => carry.IN0
+b => s.IN1
+b => carry.IN1
+b => carry.IN1
+c => s.IN1
+c => carry.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+carry <= carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst3
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst8
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|sumador:inst4
+a => s.IN0
+a => carry.IN0
+a => carry.IN0
+b => s.IN1
+b => carry.IN1
+b => carry.IN1
+c => s.IN1
+c => carry.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+carry <= carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst2
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst7
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|sumador:inst1
+a => s.IN0
+a => carry.IN0
+a => carry.IN0
+b => s.IN1
+b => carry.IN1
+b => carry.IN1
+c => s.IN1
+c => carry.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+carry <= carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst6
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst14
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst13
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst15
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst64
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst11
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst91
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|EjercicioC|D_FF:inst85
+D => Q~reg0.DATAIN
+clok => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

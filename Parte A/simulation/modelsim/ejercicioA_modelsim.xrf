@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Leo/Desktop/Guia fpga/Parte A/ejercicioA.vhd
+source_file = 1, C:/Users/Leo/Desktop/Guia fpga/Parte A/Waveform.vwf
+source_file = 1, C:/Users/Leo/Desktop/Guia fpga/Parte A/tb_ejA.vhd
+source_file = 1, C:/Users/Leo/Desktop/Guia fpga/Parte A/diagrama.bdf
+source_file = 1, C:/Users/Leo/Desktop/Guia fpga/Parte A/db/ejercicioA.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = ejercicioA
+instance = comp, \LED~output , LED~output, ejercicioA, 1
+instance = comp, \SW2~input , SW2~input, ejercicioA, 1
+instance = comp, \SW1~input , SW1~input, ejercicioA, 1
+instance = comp, \LED~0 , LED~0, ejercicioA, 1

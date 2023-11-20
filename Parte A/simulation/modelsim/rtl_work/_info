@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Leo\Desktop\Guia fpga\Parte A\simulation\modelsim
+Eejercicioa
+Z1 w1700433141
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Leo\Desktop\Guia fpga\Parte A\simulation\modelsim
+Z5 8C:/Users/Leo/Desktop/Guia fpga/Parte A/ejercicioA.vhd
+Z6 FC:/Users/Leo/Desktop/Guia fpga/Parte A/ejercicioA.vhd
+l0
+L4
+VdY<>clz0ZfETdZ8[A0zKJ1
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1700434268.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Leo/Desktop/Guia fpga/Parte A/ejercicioA.vhd|
+Z10 !s107 C:/Users/Leo/Desktop/Guia fpga/Parte A/ejercicioA.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 CePC3FgcI6TGJPUQ>o7eZ3
+!i10b 1
+Acomportamiento
+R2
+R3
+DEx4 work 10 ejercicioa 0 22 dY<>clz0ZfETdZ8[A0zKJ1
+l13
+L12
+VnMzkGj:fE0M7B@=dgjL6f3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 Y5k@`VE0S`ii=2NmYDg]c1
+!i10b 1
+Etb_eja
+Z13 w1700433769
+R2
+R3
+R4
+Z14 8C:/Users/Leo/Desktop/Guia fpga/Parte A/tb_ejA.vhd
+Z15 FC:/Users/Leo/Desktop/Guia fpga/Parte A/tb_ejA.vhd
+l0
+L4
+VBI^LL=fDnC@Bo7HSF6OZN1
+!s100 T:D0MD<;VUQGeV1UZLl3B0
+R7
+31
+!i10b 1
+Z16 !s108 1700434268.047000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Leo/Desktop/Guia fpga/Parte A/tb_ejA.vhd|
+Z18 !s107 C:/Users/Leo/Desktop/Guia fpga/Parte A/tb_ejA.vhd|
+R11
+R12
+Acomportamiento
+R2
+R3
+DEx4 work 6 tb_eja 0 22 BI^LL=fDnC@Bo7HSF6OZN1
+l23
+L8
+VEH;4hg:lA^bfAbKlSH0AQ0
+!s100 h;FQ5X>f`HAK;4fBhIU:V2
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12

@@ -1,0 +1,114 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Leo\Desktop\Guia fpga\Parte C\simulation\modelsim
+Ed_ff
+Z1 w1700435454
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\Leo\Desktop\Guia fpga\Parte C\simulation\modelsim
+Z7 8C:/Users/Leo/Desktop/Guia fpga/Parte B/D_FF.vhd
+Z8 FC:/Users/Leo/Desktop/Guia fpga/Parte B/D_FF.vhd
+l0
+L6
+VnWoa>Qb=NQG44C?m@Ko091
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1700441658.104000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/Leo/Desktop/Guia fpga/Parte B/D_FF.vhd|
+Z12 !s107 C:/Users/Leo/Desktop/Guia fpga/Parte B/D_FF.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 M7DBXk5941F=KORf]LzF90
+!i10b 1
+Aconducta
+R2
+R3
+R4
+R5
+DEx4 work 4 d_ff 0 22 nWoa>Qb=NQG44C?m@Ko091
+l12
+L11
+V=_H:<>lEZH^;Z;_Jzi1Nl3
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 Jd6aRTY0YEQXJ9D0<?9_70
+!i10b 1
+Esumador
+Z15 w1700438215
+R4
+R5
+R6
+Z16 8C:/Users/Leo/Desktop/Guia fpga/Parte C/sumador.vhd
+Z17 FC:/Users/Leo/Desktop/Guia fpga/Parte C/sumador.vhd
+l0
+L4
+VB9h^Uf6OjHUa88lhoiVJD1
+R9
+31
+Z18 !s108 1700441658.149000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/Leo/Desktop/Guia fpga/Parte C/sumador.vhd|
+Z20 !s107 C:/Users/Leo/Desktop/Guia fpga/Parte C/sumador.vhd|
+R13
+R14
+!s100 I36YoQEnJZTn[gACg_^<n2
+!i10b 1
+Aconducta
+R4
+R5
+DEx4 work 7 sumador 0 22 B9h^Uf6OjHUa88lhoiVJD1
+l11
+L10
+VE8zN7b8P];1N_]V_eL64Q1
+R9
+31
+R18
+R19
+R20
+R13
+R14
+!s100 fjP`^m5?=AdgcSNkz<^?X0
+!i10b 1
+Etb_ejc
+Z21 w1700440754
+R4
+R5
+R6
+Z22 8C:/Users/Leo/Desktop/Guia fpga/Parte C/tb_ejC.vhd
+Z23 FC:/Users/Leo/Desktop/Guia fpga/Parte C/tb_ejC.vhd
+l0
+L4
+VY_@5S4c7T@k_S:6z9bYQ22
+!s100 Y3DoXYXb3o34hd=Y?^QH_3
+R9
+31
+!i10b 1
+Z24 !s108 1700441658.191000
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/Leo/Desktop/Guia fpga/Parte C/tb_ejC.vhd|
+Z26 !s107 C:/Users/Leo/Desktop/Guia fpga/Parte C/tb_ejC.vhd|
+R13
+R14
+Acomportamiento
+R4
+R5
+DEx4 work 6 tb_ejc 0 22 Y_@5S4c7T@k_S:6z9bYQ22
+l53
+L7
+VC[3FeLI2K`mIz=5KWeU7h2
+!s100 Z_;3YW8aS4?PLB8a[?j;W2
+R9
+31
+!i10b 1
+R24
+R25
+R26
+R13
+R14

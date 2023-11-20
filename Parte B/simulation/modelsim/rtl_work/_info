@@ -1,0 +1,114 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Leo\Desktop\Guia fpga\Parte B\simulation\modelsim
+Ed_ff
+Z1 w1700435454
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\Leo\Desktop\Guia fpga\Parte B\simulation\modelsim
+Z7 8C:/Users/Leo/Desktop/Guia fpga/Parte B/D_FF.vhd
+Z8 FC:/Users/Leo/Desktop/Guia fpga/Parte B/D_FF.vhd
+l0
+L6
+VnWoa>Qb=NQG44C?m@Ko091
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1700440817.211000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/Leo/Desktop/Guia fpga/Parte B/D_FF.vhd|
+Z12 !s107 C:/Users/Leo/Desktop/Guia fpga/Parte B/D_FF.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 M7DBXk5941F=KORf]LzF90
+!i10b 1
+Aconducta
+R2
+R3
+R4
+R5
+DEx4 work 4 d_ff 0 22 nWoa>Qb=NQG44C?m@Ko091
+l12
+L11
+V=_H:<>lEZH^;Z;_Jzi1Nl3
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 Jd6aRTY0YEQXJ9D0<?9_70
+!i10b 1
+Esum
+Z15 w1700429770
+R4
+R5
+R6
+Z16 8C:/Users/Leo/Desktop/Guia fpga/Parte B/sum.vhd
+Z17 FC:/Users/Leo/Desktop/Guia fpga/Parte B/sum.vhd
+l0
+L4
+VB?_UZf:VPdoCT?ADH8eC:0
+R9
+31
+Z18 !s108 1700440817.260000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/Leo/Desktop/Guia fpga/Parte B/sum.vhd|
+Z20 !s107 C:/Users/Leo/Desktop/Guia fpga/Parte B/sum.vhd|
+R13
+R14
+!s100 79H=n=EH2HbI6i`hdm]P70
+!i10b 1
+Aconducta
+R4
+R5
+DEx4 work 3 sum 0 22 B?_UZf:VPdoCT?ADH8eC:0
+l18
+L10
+VG=DAHW<H5@Hmj?GQSjf[f2
+R9
+31
+R18
+R19
+R20
+R13
+R14
+!s100 EHdmnBk5zRhCIE?z^`eX43
+!i10b 1
+Etb_sum
+Z21 w1700431749
+R4
+R5
+R6
+Z22 8C:/Users/Leo/Desktop/Guia fpga/Parte B/tb_sum.vhd
+Z23 FC:/Users/Leo/Desktop/Guia fpga/Parte B/tb_sum.vhd
+l0
+L4
+V=8e:>iooWn_0gi8=K:Gka2
+!s100 L9MgTZMLlLF2Xn1VE]Z^a2
+R9
+31
+!i10b 1
+Z24 !s108 1700440817.302000
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/Leo/Desktop/Guia fpga/Parte B/tb_sum.vhd|
+Z26 !s107 C:/Users/Leo/Desktop/Guia fpga/Parte B/tb_sum.vhd|
+R13
+R14
+Aconducta
+R4
+R5
+DEx4 work 6 tb_sum 0 22 =8e:>iooWn_0gi8=K:Gka2
+l22
+L7
+V`fWXF_TaIUWdVBzFHXJTf3
+!s100 =O`kcF<oeS2N=z3FRAa9j3
+R9
+31
+!i10b 1
+R24
+R25
+R26
+R13
+R14

@@ -1,0 +1,10 @@
+
+State Machine - |ejercicioDTemplate|state
+Name state.state_bit_2 state.state_bit_1 state.state_bit_0 
+state.s0 0 0 0 
+state.s1 0 0 1 
+state.s2 0 1 1 
+state.s3 0 1 0 
+state.s4 1 1 0 
+state.s5 1 1 1 
+state.s6 1 0 1 
